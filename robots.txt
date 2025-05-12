@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://iaamirx.github.io/voice-search-meta/sitemap.xml
